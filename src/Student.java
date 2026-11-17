@@ -11,4 +11,7 @@ public class Student {
         System.out.println("Name: " + name);
         System.out.println("Age: " + age);
     }
+    public void displayEmail() {
+    	System.out.println("Email: arun@gmail.com");
+    }
 }
